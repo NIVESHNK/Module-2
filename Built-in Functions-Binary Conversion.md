@@ -15,7 +15,7 @@ print(bin(a))
 ```
 
 ## Output:
-<img width="555" height="229" alt="image" src="https://github.com/user-attachments/assets/ba8ca006-d2b1-45a9-be80-7ad312347697" />
+<img width="592" height="318" alt="518743331-bc603e79-52ba-4415-ac3f-1c0a88e54c94" src="https://github.com/user-attachments/assets/9673b613-a17d-42c2-a9cb-6c7aab386ee6" />
 
 ## Result:
 Thus, the Python program to convert the number 16 into its binary representation using the built-in bin() function was executed successfully.
