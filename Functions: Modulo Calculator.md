@@ -21,8 +21,8 @@ y = int(input("Enter second number: "))
 result(x, y)
 ```
 ## Output:
-<img width="523" height="308" alt="image" src="https://github.com/user-attachments/assets/9854288c-a569-4987-8336-40d0dd66925b" />
 
+<img width="816" height="392" alt="517994929-22fe8612-80e0-43d4-86fc-c1378352f088" src="https://github.com/user-attachments/assets/9858ffea-ff78-46fa-9cce-69c24e2ee9cb" />
 
 ## Result
 Thus, the Python program to define a function that accepts two values and returns their modulo using the % operator was executed successfully.
