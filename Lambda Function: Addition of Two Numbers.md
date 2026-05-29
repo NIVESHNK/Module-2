@@ -10,16 +10,16 @@ To write a Python program that defines a **lambda function** which takes two arg
 
 ## 🧾 Program
 ```
-a = int(input("Enter first number: "))
-b = int(input("Enter second number: "))
+a = int(input())
+b = int(input())
+c=int(input())
+f = lambda a, b,c: a + b+c
 
-f = lambda a, b: a + b
-
-print(f(a, b))
+print(f(a, b,c))
 ```
 ## Output:
-<img width="464" height="299" alt="image" src="https://github.com/user-attachments/assets/69941279-a941-40d9-a7ef-913331bd8c3b" />
 
+<img width="617" height="452" alt="517995636-ad852486-5926-4eec-92fc-5be70a4b0910" src="https://github.com/user-attachments/assets/bce20250-dae0-4ce0-a245-d88e651acfc7" />
 
 ## Result
 Thus, the Python program to define a lambda function that takes two arguments and returns their sum was executed successfully.
